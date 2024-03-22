@@ -5,4 +5,6 @@ Information
 4. AC_AVG.xlsx is the excel file that contains the asymmetry average values for all sites and is used for plotting in the CODE_MANUSCRIPT python script.
 5. The Excel Files: AUGIN20122014.xlsx, AUTTETIMESERIES.xlsx, DKSOR20122014.xlsx, and USWHS20122014.xlsx contain the data to plot the sample time-series plots and their probability density functions in the CODE_PAPERnSIALLFIGS python script. 
 6. The Excel Files: BOXPLOT_INFO.xlsx and CRED_TAVG_PLOTINFO.xlsx contain the data and calculations utilized to obtain the error bar plots. These files have been used in the CODE_PAPERnSIALLFIGS python script.
+
+
 Contact information - Nikhila Gollakota, Department of Biological and Agricultural Engineering, Texas A&M University. Email : nikhilag@tamu.edu
